@@ -1,14 +1,13 @@
 How to Access Your EarthLink Login Webmail Account Easily
 ============================================
 
+**EarthLink** is one of the leading Internet service providers in the United States. Among its many services, EarthLink offers webmail, a convenient way for users to access their emails from anywhere with an Internet connection. In this guide, we will walk you through the process of logging into your EarthLink Webmail account.
+
 .. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://aclportal.com/
-
-
-**EarthLink** is one of the leading Internet service providers in the United States. Among its many services, EarthLink offers webmail, a convenient way for users to access their emails from anywhere with an Internet connection. In this guide, we will walk you through the process of logging into your EarthLink Webmail account.
 
 Introduction to EarthLink Webmail
 ----------------------------------
